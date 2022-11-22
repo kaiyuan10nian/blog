@@ -4,9 +4,9 @@ import (
 	"github.com/gin-gonic/gin"
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/spf13/viper"
-	"kaiyuan10nian/Blog/common"
-	"kaiyuan10nian/Blog/config"
-	"kaiyuan10nian/Blog/route"
+	"kaiyuan10nian/common"
+	"kaiyuan10nian/config"
+	"kaiyuan10nian/route"
 	"net/http"
 )
 

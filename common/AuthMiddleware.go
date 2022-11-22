@@ -2,7 +2,7 @@ package common
 
 import (
 	"github.com/gin-gonic/gin"
-	"kaiyuan10nian/Blog/model"
+	"kaiyuan10nian/model"
 	"net/http"
 	"strings"
 )

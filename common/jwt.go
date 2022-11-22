@@ -2,7 +2,7 @@ package common
 
 import (
 	"github.com/dgrijalva/jwt-go"
-	"kaiyuan10nian/Blog/model"
+	"kaiyuan10nian/model"
 	"time"
 )
 

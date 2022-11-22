@@ -3,10 +3,10 @@ package controller
 import (
 	"github.com/gin-gonic/gin"
 	"github.com/jinzhu/gorm"
-	"kaiyuan10nian/Blog/common"
-	"kaiyuan10nian/Blog/model"
-	"kaiyuan10nian/Blog/response"
-	"kaiyuan10nian/Blog/vo"
+	"kaiyuan10nian/common"
+	"kaiyuan10nian/model"
+	"kaiyuan10nian/response"
+	"kaiyuan10nian/vo"
 	"net/http"
 	"strconv"
 )

@@ -2,9 +2,9 @@ package route
 
 import (
 	"github.com/gin-gonic/gin"
-	"kaiyuan10nian/Blog/common"
-	"kaiyuan10nian/Blog/config"
-	"kaiyuan10nian/Blog/controller"
+	"kaiyuan10nian/common"
+	"kaiyuan10nian/config"
+	"kaiyuan10nian/controller"
 )
 
 func CollectRoute(r *gin.Engine) *gin.Engine {

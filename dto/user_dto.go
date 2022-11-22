@@ -1,6 +1,6 @@
 package dto
 
-import "kaiyuan10nian/Blog/model"
+import "kaiyuan10nian/model"
 
 type UserDto struct {
 	ID        uint   `json:"id"`

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/jinzhu/gorm"
 	"github.com/spf13/viper"
-	"kaiyuan10nian/Blog/model"
+	"kaiyuan10nian/model"
 	"net/url"
 )
 

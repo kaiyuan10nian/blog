@@ -3,8 +3,8 @@ package controller
 import (
 	"errors"
 	"github.com/gin-gonic/gin"
-	"kaiyuan10nian/Blog/config"
-	"kaiyuan10nian/Blog/response"
+	"kaiyuan10nian/config"
+	"kaiyuan10nian/response"
 	"net/http"
 	"os"
 	"path"
